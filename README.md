@@ -15,9 +15,14 @@
   <br/>
   <br/>
   
+  ## 🤔 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodydtns)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodydtns&layout=compact)
+  
   ## 🧱 Tech Stack
   ### Language
-  <!--Python-->
+  <!--Java-->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -30,11 +35,6 @@
 
   ## Tools
   <br/>
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodydtns)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodydtns&layout=compact)
   
 </div>
 
