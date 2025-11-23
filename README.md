@@ -1,54 +1,160 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Backend%20Developer%20%F0%9F%91%8B)
   
 </div>
 
-<div>
-  <!--Body-->
+<div align="center">
   
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
+  ### 안녕하세요! Backend Developer 박재욱입니다 👋
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodydtns)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodydtns&layout=compact)
-  
-  ## 🧱 Tech Stack
-  ### Language
-  <!--Java-->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Spring&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br/>
-  ## Studying
-
-  ## Tools
-  <br/>
+  [![Email](https://img.shields.io/badge/Email-wodydtns@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:wodydtns@gmail.com)
+  [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Coming%20Soon-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](#)
   
 </div>
 
-<!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🏢 **현재**: 프리커스 IAM 2팀 대리 (2022.12 ~ 재직중)
+- 💼 **경력**: 총 5년 1개월의 백엔드 개발 경험
+- 🎯 **전문분야**: Java/Spring 기반 웹 서비스 개발 및 성능 개선
+- 🚀 **강점**: 
+  - 프로젝트 전체 사이클 경험 (기획 → 개발 → 배포 → 운영)
+  - PL 역할 수행 및 소규모 팀 리딩 경험
+  - 다양한 이해관계자와의 협업 및 일정 조율
+- 📚 **관심사**: 시스템 성능 최적화, 클린 코드, 효율적인 배치 처리
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![Querydsl](https://img.shields.io/badge/Querydsl-0078D4?style=flat-square&logo=Spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
+
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+![Tibero](https://img.shields.io/badge/Tibero-0078D4?style=flat-square&logo=Database&logoColor=white)
+![Altibase](https://img.shields.io/badge/Altibase-FF6600?style=flat-square&logo=Database&logoColor=white)
+
+### Server & DevOps
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black)
+![JBoss](https://img.shields.io/badge/JBoss-EE0000?style=flat-square&logo=Red-Hat&logoColor=white)
+![JEUS](https://img.shields.io/badge/JEUS-0078D4?style=flat-square&logo=Server&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white)
+
+### Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+
+### Other Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### 🏢 프리커스 IAM 2팀 | 대리
+**2022.12 ~ 재직중**
+- IAM(Identity and Access Management) 솔루션 개발 및 유지보수
+- OTP Self Service 프로젝트 PL 수행
+- 주요 성과:
+  - 배치 작업 성능 개선 (40초 → 10초, 75% 단축)
+  - 프로젝트 일정 단축 완료 (예상 10주 → 실제 9주)
+  - SSO 연동 및 Windows Server 구축
+
+### 🏢 켐아이넷 개발2팀 | 연구원
+**2020.07 ~ 2022.09**
+- 지능형 통합 위해성평가 플랫폼 개발
+- 주요 성과:
+  - Altibase → MariaDB 데이터 마이그레이션 완료
+  - 서비스 VOC 처리 100% 달성
+  - 영양성분 DB 고도화 프로젝트 수행
+
+---
+
+## 🎯 Key Projects
+
+### 🚀 현대건설 OTP 업그레이드 구축 (2025.05 ~ 2025.10)
+- **역할**: PL (기여도 70%)
+- **성과**: 
+  - 프로젝트 일정 관리 및 완료
+  - 추가 인증 구현 및 레거시 시스템 연동
+  - Tomcat & Windows Server 구축
+
+### 🚀 현대로템 OTP 업그레이드 구축 (2024.12 ~ 2025.02)
+- **역할**: PL (기여도 60%)
+- **성과**: 
+  - 프로젝트 기한 단축 (10주 → 9주)
+  - 배치 작업 성능 개선 (40초 → 10초)
+  - SSO 연동 완료
+
+### 🚀 현대자동차 차세대 계정/권한 관리 (2023.04 ~ 2023.12)
+- **역할**: 개발자 (기여도 20%)
+- **성과**: 
+  - 배치 시간 단축 (1분 30초 → 20초 이내, 78% 개선)
+  - API 커넥터 10개 이상 개발
+  - 기능도 및 데이터 플로우 문서화
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wodydtns&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodydtns&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wodydtns&theme=tokyonight&hide_border=true)
+  
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🔍 시스템 성능 최적화 기법
+- 🏗️ MSA(Microservices Architecture)
+- ☁️ Cloud Native 아키텍처
+- 🔐 보안 강화 기법
+
+---
+
+## 📫 Contact
+
+- 📧 Email: wodydtns@gmail.com
+- 📱 Mobile: 010-2449-6562
+- 📍 Location: 인천광역시 남동구
+
+---
+
+<div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+  
+</div>
