@@ -101,24 +101,98 @@
 
 ### 🚀 현대건설 OTP 업그레이드 구축 (2025.05 ~ 2025.10)
 - **역할**: PL (기여도 70%)
+- **기술스택**: Java, Spring Framework, Vue.js, JSP, MyBatis, Quartz, Git, Tomcat
 - **성과**: 
   - 프로젝트 일정 관리 및 완료
   - 추가 인증 구현 및 레거시 시스템 연동
-  - Tomcat & Windows Server 구축
+  - Tomcat & Windows Server 구축 및 설정
 
 ### 🚀 현대로템 OTP 업그레이드 구축 (2024.12 ~ 2025.02)
 - **역할**: PL (기여도 60%)
+- **기술스택**: Java, Spring Framework, Vue.js, JSP, MyBatis, Quartz, Git, Tomcat
 - **성과**: 
   - 프로젝트 기한 단축 (10주 → 9주)
-  - 배치 작업 성능 개선 (40초 → 10초)
+  - 배치 작업 성능 개선 (40초 → 10초, 75% 단축)
   - SSO 연동 완료
+- 🔗 [서비스 링크](https://otpself.rotem.co.kr/login.jsp)
 
 ### 🚀 현대자동차 차세대 계정/권한 관리 (2023.04 ~ 2023.12)
 - **역할**: 개발자 (기여도 20%)
+- **기술스택**: Java, Spring Framework, Vue.js, MyBatis, Quartz, Git, Apache Karaf
 - **성과**: 
   - 배치 시간 단축 (1분 30초 → 20초 이내, 78% 개선)
   - API 커넥터 10개 이상 개발
   - 기능도 및 데이터 플로우 문서화
+
+### 🔍 영양성분 DB 고도화 (2022.05 ~ 2022.09)
+- **역할**: 개발자 (기여도 90%)
+- **기술스택**: Java, Spring Framework, jQuery, MyBatis, SVN, Jenkins
+- **성과**: 
+  - 관리자 검색 기능 관리 서비스 구현
+  - 검색 기능 강화를 위한 시스템 고도화
+- 🔗 [서비스 링크](https://various.foodsafetykorea.go.kr/nutrient)
+
+### 🔄 시스템 이관 및 데이터 마이그레이션 (2022.01 ~ 2022.05)
+- **역할**: 개발자 (기여도 50%)
+- **기술스택**: Java, Spring Framework, Python, Pandas, MyBatis, Altibase, MariaDB
+- **성과**: 
+  - Altibase → MariaDB 데이터 마이그레이션 완료
+  - 서비스 주요 기능 오류 및 VOC 처리 100% 달성
+
+---
+
+## 🚀 Side Projects
+
+### 📊 주식 포트폴리오 관리 시스템
+**2023.01 ~ 2023.03**
+- **기술스택**: Java, Spring Boot, JPA, Vue.js, MariaDB
+- **주요 기능**:
+  - 실시간 주식 데이터 수집 및 분석
+  - 포트폴리오 수익률 계산 및 시각화
+  - 투자 전략 백테스팅
+- **배운 점**: 
+  - Spring Batch를 활용한 대용량 데이터 처리
+  - Vue.js를 활용한 SPA 개발 경험
+
+### 🤖 업무 자동화 도구 개발
+**2021.06 ~ 2021.08**
+- **기술스택**: Python, Selenium, Pandas
+- **주요 기능**:
+  - 반복적인 데이터 수집 작업 자동화
+  - Excel 리포트 자동 생성
+  - 이메일 자동 발송
+- **성과**: 
+  - 일일 2시간 소요 업무를 10분으로 단축
+  - 팀 내 업무 효율성 향상
+
+### 📝 개인 기술 블로그 (준비중)
+**2025.01 ~**
+- **기술스택**: Next.js, TypeScript, Tailwind CSS
+- **목표**: 
+  - 학습 내용 정리 및 공유
+  - 프로젝트 경험 아카이빙
+  - 기술 커뮤니티 기여
+
+---
+
+## 🎓 Education & Training
+
+### 학력
+- 🎓 **충북대학교** - 노어노문학 학사
+
+### 교육 이수
+
+#### 📚 Java & Spring 심화 과정
+**인프런 | 2023**
+- 스프링 핵심 원리 - 기본편
+- 스프링 핵심 원리 - 고급편
+- JPA 완전 정복 로드맵
+
+#### 📚 성능 최적화 과정
+**패스트캠퍼스 | 2022**
+- 대용량 트래픽 처리를 위한 시스템 설계
+- 데이터베이스 쿼리 최적화
+- 캐싱 전략 및 구현
 
 ---
 
@@ -138,10 +212,22 @@
 
 ## 🌱 Currently Learning
 
-- 🔍 시스템 성능 최적화 기법
-- 🏗️ MSA(Microservices Architecture)
-- ☁️ Cloud Native 아키텍처
-- 🔐 보안 강화 기법
+- 시스템 성능 최적화 기법
+- MSA(Microservices Architecture)
+- JPA
+- 테스트 코드 및 TDD
+
+---
+
+## 📈 Career Goals
+
+- 🎯 **단기 목표** (2025)
+  - 사이드 프로젝트 진행(주식 투자 프로젝트) 
+
+- 🎯 **중장기 목표** (2026~)
+  - 시니어 백엔드 개발자로 성장
+  - 대규모 트래픽 처리 아키텍처 설계 경험
+  - 기술 리더십 역량 강화
 
 ---
 
@@ -155,6 +241,8 @@
 
 <div align="center">
   
+### 💬 "좋은 코드는 읽기 쉬운 코드입니다"
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
   
 </div>
