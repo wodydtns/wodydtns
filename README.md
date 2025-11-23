@@ -143,36 +143,26 @@
 
 ## 🚀 Side Projects
 
-### 📊 주식 포트폴리오 관리 시스템
+### 보드게임 커뮤니티 어플리케이션 
 **2023.01 ~ 2023.03**
-- **기술스택**: Java, Spring Boot, JPA, Vue.js, MariaDB
+- **기술스택**: Java, Spring Boot, JPA, Querydsl, Linux, Oracle Cloud, Oracle Database, Notion, Slack, Spring batch, Spring Security,firebase, Git, Github
 - **주요 기능**:
-  - 실시간 주식 데이터 수집 및 분석
-  - 포트폴리오 수익률 계산 및 시각화
-  - 투자 전략 백테스팅
+  - 보드게임 조회 및 별점 매기기
+  - 사용자 간 커뮤니티 구성
+  - 관리자 기능(강퇴, 댓글, 게시글 지움 등)
 - **배운 점**: 
-  - Spring Batch를 활용한 대용량 데이터 처리
-  - Vue.js를 활용한 SPA 개발 경험
+  - Spring Batch를 활용한 데이터 배치 처리
+  - JPA, querydsl을 통한 ORM 
 
-### 🤖 업무 자동화 도구 개발
-**2021.06 ~ 2021.08**
-- **기술스택**: Python, Selenium, Pandas
-- **주요 기능**:
-  - 반복적인 데이터 수집 작업 자동화
-  - Excel 리포트 자동 생성
-  - 이메일 자동 발송
-- **성과**: 
-  - 일일 2시간 소요 업무를 10분으로 단축
-  - 팀 내 업무 효율성 향상
-
-### 📝 개인 기술 블로그 (준비중)
-**2025.01 ~**
-- **기술스택**: Next.js, TypeScript, Tailwind CSS
-- **목표**: 
-  - 학습 내용 정리 및 공유
-  - 프로젝트 경험 아카이빙
-  - 기술 커뮤니티 기여
-
+###  AI 를 통한 감정일기 어플리케이션 개발
+- **기술스택**: Java, Spring Boot, JPA,Spring Security,Spring batch, Querydsl,Jenkins, Linux,Mysql, Slack, Git,Github
+  - AI를 통한 감정일기 및 감정 상태평가
+  - 감정일기 작성 및 주간 감정상태 조회
+    
+- **배운 점**: 
+  - Jenkins를 통한 CI/CD 구성
+  - RDB 및 Nosql 구조 구축
+    
 ---
 
 ## 🎓 Education & Training
@@ -180,20 +170,19 @@
 ### 학력
 - 🎓 **충북대학교** - 노어노문학 학사
 
-### 교육 이수
+### 📚 교육 이수
 
-#### 📚 Java & Spring 심화 과정
-**인프런 | 2023**
-- 스프링 핵심 원리 - 기본편
-- 스프링 핵심 원리 - 고급편
-- JPA 완전 정복 로드맵
+#### 클라우드 융합 자바 개발자 업스킬링 과정(교육/)
+** 스파르타 코딩클럽 | 2025~ 진행 증증 **
+- Java, Spring boot를 사용한 어플리케이션 구축
+- ORM, 테스트 코드 작성 교육
+- AI API(gemini api, vertex api, ollama 등)를 통한 AI agent 구현
+- 
 
-#### 📚 성능 최적화 과정
+#### Python, Django 를 이용한 웹사이트 개발
 **패스트캠퍼스 | 2022**
-- 대용량 트래픽 처리를 위한 시스템 설계
-- 데이터베이스 쿼리 최적화
-- 캐싱 전략 및 구현
-
+- Python, Django를 사용한 웹 어플리케이션 구축
+- 
 ---
 
 ## 📊 GitHub Stats
@@ -216,6 +205,7 @@
 - MSA(Microservices Architecture)
 - JPA
 - 테스트 코드 및 TDD
+- AI agent
 
 ---
 
